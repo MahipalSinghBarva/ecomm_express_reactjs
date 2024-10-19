@@ -32,7 +32,8 @@ const Header = () => {
         <Flex className="flex items-center justify-between h-full">
           <Link to="/">
             <div>
-              <Image className="w-20 object-cover" imgSrc={logo} />
+              {/* <Image className="w-20 object-cover" imgSrc="" /> */}
+              <h2 className="font-bold">Ecomm Express</h2>
             </div>
           </Link>
           <div>
